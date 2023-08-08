@@ -39,7 +39,11 @@ Available at:
 <details>
 <summary>1. Create Database using SSMS</summary>
 
+a. 'ContactDB' database is first created.
 
+Create Database ContactDB
+
+b. 
 
 </details>
 
