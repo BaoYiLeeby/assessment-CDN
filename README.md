@@ -12,6 +12,14 @@ Available at: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 (for environment)
 
 Available at: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-  
+
+### Installation of Visual Studio
+
+(for setting up API)
+
+Available at: https://visualstudio.microsoft.com/downloads/
+
+Choose the 'Community' version
+
 </details>
 
