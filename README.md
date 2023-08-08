@@ -21,5 +21,25 @@ Available at: https://visualstudio.microsoft.com/downloads/
 
 Choose the 'Community' version
 
+### Installation of Visual Studio Code
+
+### Installation of Postman
+
+(for testing API)
+
+Available at: https://www.postman.com/downloads/
+
+### Installation of Node.js
+
+Available at: 
+
+</details>
+
+
+<details>
+<summary>1. Create Database using SSMS</summary>
+
+
+
 </details>
 
