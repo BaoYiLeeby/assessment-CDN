@@ -183,6 +183,10 @@ Based on the CRUD operations,
 
 ## Create Frontend using react.js
 
+Components: reusable code
+
+
+
 ## (Shoutout to) References
 
 <details>
