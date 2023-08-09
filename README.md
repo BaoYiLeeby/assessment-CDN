@@ -187,8 +187,13 @@ Based on the CRUD operations,
 
 <details>
 <summary>Backend References</summary>
-1. Concepts related to .NET technologies (https://youtu.be/4olO9UjRiww)
+
+1. Concepts related to .NET technologies
+
+- https://youtu.be/4olO9UjRiww
   
-2. Demonstration of building RESTful API (https://medium.com/net-core/build-a-restful-web-api-with-asp-net-core-6-30747197e229)
+2. Demonstration of building RESTful API
+- https://medium.com/net-core/build-a-restful-web-api-with-asp-net-core-6-30747197e229
+- https://betterprogramming.pub/building-a-restful-api-with-asp-net-web-api-and-sql-server-ce7873d5b331#410c
   
 </details>
