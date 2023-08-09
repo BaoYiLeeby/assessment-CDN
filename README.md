@@ -131,8 +131,8 @@ Based on the CRUD operations,
     
     Successful response code: 200 (No unhandled exceptions)
     ![VS-SUCCESS-GET people_cropped](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/c4dfae45-18b3-4269-b15d-9e889d04655b)
-
-    - In the browser, 
+    
+    - In the browser,
     ![VS-SUCCESS-GET people-after click into curl_cropped](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/e35f5818-7230-468a-97d6-0d9226d855ba)
 
     - https://localhost:{port}/api/people/{id}
