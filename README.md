@@ -128,6 +128,7 @@ Based on the CRUD operations,
   - *[HttpGet]*: method responds to an HTTP GET request
   - To test the app, call the 2 endpoints from the browser:
     - https://localhost:{port}/api/people
+    - https://localhost:{port}/api/people/{id}
     
     Successful response code: 200 (No unhandled exceptions)
     ![VS-SUCCESS-GET people_cropped](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/c4dfae45-18b3-4269-b15d-9e889d04655b)
@@ -135,7 +136,6 @@ Based on the CRUD operations,
     - In the browser,
     ![VS-SUCCESS-GET people-after click into curl_cropped](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/e35f5818-7230-468a-97d6-0d9226d855ba)
 
-    - https://localhost:{port}/api/people/{id}
 
 - ## POST
   - Creates a user's contact record in the database
@@ -153,7 +153,7 @@ Based on the CRUD operations,
 
   - *[HttpPut]*: method responds to an HTTP POST request
   - To test the app, provide the *Id* in both request URL and body for matching
-  - Note: The whole updated entity is required, instead only the changes
+    - Note: The whole updated entity is required, instead only the changes
   
   Successful response code: 204 (No Content)
   ![image](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/5a21b336-ed25-4816-bcd9-9b163fe96cde)
@@ -166,7 +166,9 @@ Based on the CRUD operations,
   
   - *[HttpDelete]*: method responds to an HTTP POST request
   - To test the app, 
-  - Note: *Id* in the URL is required to identify the want-to-delete record.
+    - Note: *Id* in the URL is required to identify the want-to-delete record.
+
+  Both *Id* of 1 and 2 are deleted
   
   Successful response code: 204 (No Content)
   ![image](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/513631ae-70d6-45f4-b634-adb16c83b065)
@@ -180,3 +182,13 @@ Based on the CRUD operations,
 </details>
 
 ## Create Frontend using react.js
+
+## (Shoutout to) Reference
+
+<details>
+<summary>Backend References</summary>
+1. Concepts related to .NET technologies (https://youtu.be/4olO9UjRiww)
+  
+2. Demonstration of building RESTful API (https://medium.com/net-core/build-a-restful-web-api-with-asp-net-core-6-30747197e229)
+  
+</details>
