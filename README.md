@@ -183,7 +183,7 @@ Based on the CRUD operations,
 
 ## Create Frontend using react.js
 
-## (Shoutout to) Reference
+## (Shoutout to) References
 
 <details>
 <summary>Backend References</summary>
