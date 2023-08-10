@@ -10,6 +10,9 @@ Contact Directory Application for CDN company is a web application that takes ba
 
 ### General Description
 
+- Screenshot of the application:
+![image](https://github.com/BaoYiLeeby/assessment-CDN/assets/60701681/789c4c62-8dc8-4b92-92b2-fad47228e1c7)
+
 ### Technologies Used
 - .NET Core Web API
 - ReactJS
@@ -44,7 +47,11 @@ Then, open terminal in your editor and run command *npm start*.
 ### Project Status
 (Sorry to tell that, incompleted) Lots of rooms for improvement
 
+- The database(backend) is not connected to the web interface(frontend). 
+
 ### Improvements
+
+- Connect database with web interface in ReactJS
 
 ### Features that can be added
 
