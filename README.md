@@ -187,6 +187,10 @@ Components: reusable code
 
 *Props*: to pass parent to child
 
+*Hook*
+
+*State*
+
 
 ## (Shoutout to) References
 
