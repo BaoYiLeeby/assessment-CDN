@@ -185,6 +185,7 @@ Based on the CRUD operations,
 
 Components: reusable code
 
+*Props*: to pass parent to child
 
 
 ## (Shoutout to) References
