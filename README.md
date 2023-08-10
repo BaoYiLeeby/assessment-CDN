@@ -206,3 +206,9 @@ Components: reusable code
 - https://betterprogramming.pub/building-a-restful-api-with-asp-net-web-api-and-sql-server-ce7873d5b331#410c
   
 </details>
+
+<details>
+<summary>Frontend References</summary>
+
+1. 
+</details>
