@@ -1,6 +1,57 @@
-# Directory of contact for CDN company
+# A Contact Directory Application for CDN company
 
-## Install Prerequisites
+## Situation: 
+A fictional company, CDN - Complete Developer Network is going to build a list of freelancers such that they could have a directory of contact get people for their job.
+
+## (For Viewer)
+
+### Contact Directory Application for CDN company
+Contact Directory Application for CDN company is a web application that takes basic information about the user’s details as an input and generates a directory of contact for CDN to gey people for their job.
+
+### General Description
+
+### Technologies Used
+- .NET Core Web API
+- ReactJS
+
+### Features
+
+    Simple UI 
+    
+    To register, display, and delete user's details in 1-webpage.
+
+    No knowledge about markdown syntax is required.
+
+    You can see your rendered markdown output at the same instance.
+
+    Download markdown code direclty with one click.
+
+### Setup
+Following are the requirements to run this project:
+
+- A browser
+- Activate the API (via Visual Studio)
+- Node Package Manager (NPM)
+- ReactJs (via Visual Studio Code)
+
+### Steps to Run
+To run the project in your device, download the repository for both API and web interface.
+
+First, open terminal in your Visual Studio editor and execute run the API to connect to the local database.
+
+Then, open terminal in your editor and run command *npm start*. 
+
+### Project Status
+(Sorry to tell that, incompleted) Lots of rooms for improvement
+
+### Improvements
+
+### Features that can be added
+
+
+## (For Developer)
+### Install Prerequisites
+
 <details>
 <summary>Tools Installation Before Start</summary>
   
@@ -36,7 +87,7 @@ Available at: https://nodejs.org/en/download
 
 </details>
 
-## Create Backend using .NET Core Web API
+### Create Backend using .NET Core Web API
 
 <details>
 <summary>1. Create a New ASP.NET Core Web API Project</summary>
@@ -181,7 +232,7 @@ Based on the CRUD operations,
 
 </details>
 
-## Create Frontend using react.js
+### Create Frontend using ReactJS
 
 Components: reusable code
 
