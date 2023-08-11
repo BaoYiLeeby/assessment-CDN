@@ -2,12 +2,14 @@
 
 ## Location of Codes
 
-### Backend Codes
+### README.md
+Can be found in *main* branch
+
+### Codes
 Can be found in *master* branch
 
-### Frontend Codes
-Can be found in 
-
+- Backend: in *CDN-WebAPI* folder
+- Frontend: in *CDN-WebInterface* folder
 
 ## Situation: 
 A fictional company, CDN - Complete Developer Network is going to build a list of freelancers such that they could have a directory of contact get people for their job.
