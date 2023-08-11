@@ -1,5 +1,14 @@
 # A Contact Directory Application for CDN company
 
+## Location of Codes
+
+### Backend Codes
+Can be found in *master* branch
+
+### Frontend Codes
+Can be found in 
+
+
 ## Situation: 
 A fictional company, CDN - Complete Developer Network is going to build a list of freelancers such that they could have a directory of contact get people for their job.
 
