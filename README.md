@@ -241,13 +241,12 @@ Based on the CRUD operations,
 
 ### Create Frontend using ReactJS
 
-Components: reusable code
+Components: for reusable code
+*Props*: for information flows, to pass data from parent to child
 
-*Props*: to pass parent to child
+Interactive components:
 
-*Hook*
-
-*State*
+- Button: to register user upon entering all fields
 
 
 ## (Shoutout to) References
@@ -268,9 +267,11 @@ Components: reusable code
 <details>
 <summary>Frontend References</summary>
 
-1. Demonstration of building React project
+1. Concepts related to React
+
+- https://legacy.reactjs.org/tutorial/tutorial.html
+
+2. Demonstration of building React project
 
 - https://youtu.be/0riHps91AzE
 
-3. 
-</details>
